@@ -1,0 +1,7 @@
+2017-02-26 23:11:39 - Stopping Jenkins
+2017-02-26 23:11:39 - ProcessKill 1904
+2017-02-26 23:11:39 - Send SIGINT 1904
+2017-02-26 23:11:39 - SIGINT to1904 successful
+2017-02-26 23:11:39 - Finished Jenkins
+2017-02-26 23:11:47 - Starting C:\Program Files (x86)\Jenkins\jre\bin\java -Xrs -Xmx256m -Dhudson.lifecycle=hudson.lifecycle.WindowsServiceLifecycle -jar "C:\Program Files (x86)\Jenkins\jenkins.war" --httpPort=8080 --webroot="C:\Program Files (x86)\Jenkins\war"
+2017-02-26 23:11:47 - Started 4012
