@@ -3464,3 +3464,7 @@ Feb 26, 2017 11:23:41 PM jenkins.security.RekeySecretAdminMonitor fix
 INFO: Initiating a re-keying of secrets. See C:\Program Files (x86)\Jenkins\jenkins.security.RekeySecretAdminMonitor\rekey.log
 Feb 26, 2017 11:23:41 PM jenkins.security.RekeySecretAdminMonitor fix
 INFO: Secret re-keying completed
+Feb 26, 2017 11:29:49 PM hudson.model.DownloadService$Downloadable updateNow
+WARNING: No tool installer metadata found for hudson.tools.JDKInstaller
+Feb 26, 2017 11:29:49 PM hudson.model.AsyncPeriodicWork$1 run
+INFO: Finished Download metadata. 1,069,207 ms
